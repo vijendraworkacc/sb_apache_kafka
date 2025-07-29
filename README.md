@@ -1,7 +1,7 @@
 # sb_apache_kafka
 This project demonstrates how to integrate Apache Kafka with Spring Boot, covering both producer and consumer configurations. It includes examples of sending and receiving string messages, JSON payloads, handling Kafka topics, and customizing Kafka listeners. Ideal for developers looking to learn event-driven architecture and real-time data streaming using Kafka and Spring Boot.
 
-========================================================================================================================
+======================================================================================
 
 Apache Kafka Architecture - Detailed Explanation
 ------------------------------------------------
@@ -157,7 +157,7 @@ Kafka’s architecture is designed for:
 
 With modular components like brokers, partitions, controllers, and replication, Kafka provides a powerful backbone for data pipelines and event-driven systems.
 
-========================================================================================================================
+======================================================================================
 
 1. What is Apache Kafka, and how does it facilitate communication in a microservices architecture?
 
